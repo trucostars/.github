@@ -1,4 +1,4 @@
-# 🌟 Bienvenido a trucostars
+# ⭐ Bienvenido a **Trucostars** ⭐
 
 Somos una organización de desarrollo dedicada a crear experiencias digitales de alta calidad. Nuestro enfoque combina una arquitectura técnica sólida con interfaces modernas para llevar el clásico **Truco** al siguiente nivel.
 
