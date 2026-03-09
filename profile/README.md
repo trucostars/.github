@@ -31,7 +31,7 @@ No solo escribimos código, construimos sistemas mantenibles. Nos regimos por:
 * **SOLID Principles:** Código limpio y desacoplado.
 * **Modularidad:** Uso de librerías privadas para reutilización de lógica de negocio.
 * **Documentación:** Todo lo que vuela tiene un manual.
-
+* **Estandares:** [Coding Standars](https://github.com/trucostars/.github/blob/main/CODING_STANDARS.md)
 ---
 
 ### 🤝 Únete a la partida
