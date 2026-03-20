@@ -11,6 +11,18 @@ Actualmente, nuestro ecosistema se divide en tres pilares fundamentales:
 * **Gaming Experience:** Desarrollo en tiempo real utilizando tecnologías de vanguardia para garantizar fluidez y precisión.
 * **UI/UX Frameworks:** Componentes modulares bajo estándares profesionales para una experiencia de usuario impecable.
 
+### Template URL
+
+**service-reposirory-name** = name of the service ej: match-service
+**version** = version of the service api ej: v1
+**controller** = the controller for the repository path.
+**endpoint** = the target endpoint in the service.
+
+https://api.ms.trucostars.bet/{service-repository-name}/{version}/{controller}/{endpoint}
+
+Example:
+[https://api.ms.trucostars.bet/wallet-service/v1/payretailers/payins](https://api.ms.trucostars.bet/wallet-service/v1/payretailers/payins)
+
 ---
 
 ### 🛠️ Nuestro Stack Tecnológico
